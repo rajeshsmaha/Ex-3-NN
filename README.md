@@ -1,7 +1,7 @@
-<H3>ENTER YOUR NAME : Rajeshwaran D</H3> 
-<H3>ENTER YOUR REGISTER NO. : 212223040165 </H3>
+<H3>NAME : RAJESHWARAN D </H3> 
+<H3>REGISTER NO. : 212223040165 </H3>
 <H3>EX. NO.3</H3>
-
+<H3>DATE:  26/09/2025 </H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
 <h3>Aim:</h3>   
 To implement a perceptron for classification using Python
@@ -107,7 +107,8 @@ predict(w1,w2,test)
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/e651650a-8a57-469a-98c3-5831ca0b87d4)
+<img width="831" height="733" alt="image" src="https://github.com/user-attachments/assets/0883f2c3-df13-4ee7-b6d4-128c0033f814" />
+
 
 
 <H3> Result:</H3>
